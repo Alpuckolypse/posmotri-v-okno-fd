@@ -112,13 +112,17 @@ ol {
   font-weight: 400;
   font-size: 18px;
   color: #fff;
-  margin-bottom: 5px;
+  margin-bottom: 3px;
+}
+
+.search-form__fieldset:last-of-type {
+  margin-left: 40px;
 }
 
 .title {
   font-family: "Oswald", sans-serif;
   font-weight: 700;
-  font-size: 75px;
+  font-size: 76px;
   line-height: 0.94;
   text-transform: uppercase;
   color: #fff;
@@ -272,7 +276,7 @@ ol {
 }
 
 .more-button {
-  inline-size: calc(100% - 4px);
+  line-height: 32px;
   margin: 0 2px 2px;
   width: 390px;
   height: 34px;
