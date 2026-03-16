@@ -299,7 +299,7 @@ ol {
   cursor: pointer;
 }
 
-.content__card-link_current .content__video-card{
+.content__card-link_current .content__video-card {
   background-color: #545050;
 }
 
@@ -360,4 +360,3 @@ ol {
 .search-form__fieldset:last-of-type {
   transform: translateY(-5px);
 }
-/* */
