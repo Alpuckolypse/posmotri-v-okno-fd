@@ -104,8 +104,6 @@ ol {
   border-bottom: 1px solid #fff;
   min-width: 225px;
   line-height: 100%;
-  text-indent: -3px;
-
 }
 
 .search-form__checkbox-list {
@@ -127,6 +125,7 @@ ol {
   padding: 0;
   margin: 0;
   cursor: pointer;
+  gap: 8px;
 }
 
 .search-form__pseudo-checkbox {
@@ -137,8 +136,6 @@ ol {
   background-color: transparent;
   justify-content: center;
   align-items: center;
-  margin-right: 8px;
-  margin-top: 2px;
   flex-shrink: 0;
   position: relative;
 }
